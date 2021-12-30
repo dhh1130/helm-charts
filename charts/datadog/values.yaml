@@ -16,7 +16,7 @@ targetSystem: "linux"
 ## GCR - use gcr.io/datadoghq (default)
 ## DockerHub - use docker.io/datadog
 ## AWS - use public.ecr.aws/datadog
-registry: gcr.io/datadoghq
+registry: public.ecr.aws/datadog
 
 datadog:
   # datadog.apiKey -- Your Datadog API key
